@@ -1,0 +1,9 @@
+langchain-google-genai 
+faiss-cpu 
+langchain_community
+langchain
+flask
+GitPython
+python-dotenv
+langchain_experimental
+-e .
